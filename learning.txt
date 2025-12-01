@@ -1,1 +1,0 @@
-Throughout this course, I learned how to collaborate with others on GitHub and manage version control for my code projects efficiently.
